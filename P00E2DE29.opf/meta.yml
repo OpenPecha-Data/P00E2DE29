@@ -1,0 +1,29 @@
+id: P00E2DE29
+initial_creation_type: input
+source_metadata:
+  title: Religious History by Yar lung Jo bo
+  author: yar lung jo bo shAkya rin chen/
+  description: 'Digital version 1.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2019-12-16); revision in process, thematic TEI markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre; This text was initially OCR-processed by
+    the Rime Centre Moscow. (src)
+  - Text input:Rime Centre Moscow, OCR-processed
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:ngag dbang / ed. (ngag), Kunga Dorje (kun)
+  text_witnesses: https://sakyaresearch.org/sources/339
+  bases:
+    bd91:
+      title: Religious History by Yar lung Jo bo
+      order: 1
+      base_file: bd91.txt
+created_at: '2022-04-15T19:12:28.492277'
+last_modified_at: '2022-04-15T19:12:28.492285'
+quality: null
